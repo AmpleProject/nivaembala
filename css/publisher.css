@@ -251,13 +251,13 @@ header .intro-text {
 
 .navbar-nav > li > a.btn.btn-green {
 	background:white;
-	color:#7cc576;
-	border-color:#7cc576;
+	color:#b42117;
+	border-color:#b42117;
 }
 
 .navbar-nav > li > a.btn.btn-green:hover {
-	background:#7cc576;
-	border:2px solid #7cc576;
+	background:#b42117;
+	border:2px solid #b42117;
 	color:white;
 }
 
@@ -324,14 +324,14 @@ section.reviews {
 }
 
 .btn.btn-green {
-	background: #7cc576;
-	border:3px solid #7cc576;
+	background: #b42117;
+	border:3px solid #b42117;
 	color:white;
 }
 
 .btn.btn-green:hover {
-	background: #96db90;
-	border-color: #96db90;
+	background: #b42117;
+	border-color: #b42117;
 }
 
 .btn.btn-white {
@@ -342,7 +342,7 @@ section.reviews {
 
 .btn.btn-white:hover {
 	background:white;
-	color:#7cc576;
+	color:#b42117;
 }
 
 .btn .price {
